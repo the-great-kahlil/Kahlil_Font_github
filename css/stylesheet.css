@@ -1,0 +1,16 @@
+
+body{
+	background-color: yellow;
+}
+
+#first_font{
+font-family: 'Jolly Lodger', cursive;
+}
+
+#second_font{
+	font-family: 'Russo One', sans-serif;
+}
+
+#third_font{
+font-family: 'Balthazar', serif;
+}
